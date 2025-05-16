@@ -1,12 +1,9 @@
-## Hi everybody 👋
+## Hello everybody 👋
 
-<!--
-**leongit78/leongit78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<!-- 🔭 I’m currently working on ... -->
-<!-- 🌱 I’m currently learning -->
-- 📫 How to reach me: leonidivanov993@gmail.com
-- ⚡ Fun fact: I'm 6'6
-- 🎲 Hobbies: Chess(bullet, blitz, rapid), GYM, anime 
+- How to reach me: leonidivanov993@gmail.com
+- Hobbies: anime, chess, basketball, workout
+- Programming Languages: C/C++ Python C# Assembler
+- Technologies stack: PostgreSQL, web sockets, HTML + CSS
+- Favourite sources to practice: leetcode, codeforces
+- Reason why i love programming: huge scope of creativity, the process of creating a solution to a problem
+- P.S. I use arch btw)
