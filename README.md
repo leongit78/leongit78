@@ -1,8 +1,11 @@
 ## Hello everybody 👋
 
-- How to reach me: leonidivanov993@gmail.com
+- How to reach me:
+    Email: leonidivanov993@gmail.com
+    Codeforces profile: https://codeforces.com/profile/Leonid78
+    Vkontakte: https://vk.com/iskatel78
 - Hobbies: anime, chess, basketball, workout
-- Programming Languages: C/C++ Python C# Assembler
+- Programming Languages: C C++ Python C# Assembler(nasm)
 - Technologies stack: PostgreSQL, web sockets, HTML + CSS
 - Favourite sources to practice: leetcode, codeforces
 - Reason why i love programming: huge scope of creativity, the process of creating a solution to a problem
