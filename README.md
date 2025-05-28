@@ -6,7 +6,7 @@
     Vkontakte: https://vk.com/iskatel78
 - Hobbies: anime, chess, basketball, workout
 - Programming Languages: C C++ Python C# Assembler(nasm)
-- Technologies stack: PostgreSQL, web sockets, HTML + CSS
+- Technologies stack: PostgreSQL, web sockets, HTML + CSS, ncurses lib
 - Favourite sources to practice: leetcode, codeforces
 - Reason why i love programming: huge scope of creativity, the process of creating a solution to a problem
 - P.S. I use arch btw)
